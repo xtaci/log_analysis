@@ -28,6 +28,9 @@ log analysis documents
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-templates.html
 * https://www.elastic.co/blog/found-elasticsearch-in-production
 * https://www.smashingmagazine.com/2012/05/stop-redesigning-start-tuning-your-site/
+* https://www.elastic.co/blog/customizing-your-document-routing
+* https://www.elastic.co/videos/big-data-search-and-analytics
+* https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
 
 ## s3
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html
