@@ -1,6 +1,9 @@
 # log_analysis
 log analysis documents
 
+## scenario
+![scenario](log.png)
+
 ## kafka
 * https://kafka.apache.org/documentation
 * https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1
