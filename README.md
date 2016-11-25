@@ -18,6 +18,7 @@ log analysis documents
 * https://github.com/mongodb/mongo-hadoop/wiki/Hive-Usage
 * https://github.com/mongodb/mongo-hadoop
 * https://github.com/xtaci/json2hive
+* https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool
 
 ## spark
 * http://spark.apache.org/docs/latest/spark-standalone.html
