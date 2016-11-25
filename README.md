@@ -11,14 +11,18 @@ log analysis documents
 
 ## hive
 * https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html
-* https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin
 * https://cwiki.apache.org/confluence/display/Hive/GettingStarted#GettingStarted-RunningHiveServer2andBeeline
 * http://mirror.metrocast.net/apache/hive/
 * https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL#LanguageManualDDL-HiveDataDefinitionLanguage
 * https://github.com/mongodb/mongo-hadoop/wiki/Hive-Usage
 * https://github.com/mongodb/mongo-hadoop
 * https://github.com/xtaci/json2hive
+
+## metastore
+* https://hub.docker.com/_/mysql/
+* https://issues.apache.org/jira/secure/attachment/12471108/HiveMetaStore.pdf
 * https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool
+* https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin
 
 ## spark
 * http://spark.apache.org/docs/latest/spark-standalone.html
