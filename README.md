@@ -31,6 +31,8 @@ log analysis documents
 * https://www.elastic.co/blog/customizing-your-document-routing
 * https://www.elastic.co/videos/big-data-search-and-analytics
 * https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
+* https://aphyr.com/posts/288-the-network-is-reliable
+* https://aphyr.com/posts/281-call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions
 
 ## s3
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html
