@@ -48,3 +48,7 @@ log analysis documents
 
 ## mongodb:
 * https://docs.mongodb.com/manual/tutorial/deploy-replica-set/
+* https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup
+* https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-2-hive-example
+* https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-3-spark-example-key-takeaways
+
