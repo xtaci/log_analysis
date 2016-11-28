@@ -48,6 +48,7 @@ log analysis documents
 ## s3
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html
 * https://www.elastic.co/guide/en/elasticsearch/plugins/5.0/repository-s3.html
+* https://github.com/minio/minio  s3 compatatible storage
 
 ## mongodb:
 * https://docs.mongodb.com/manual/tutorial/deploy-replica-set/
