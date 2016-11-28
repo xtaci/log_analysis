@@ -5,7 +5,7 @@ log analysis documents
 ![scenario](log.png)
 
 ## hadoop
-http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
+* http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
 
 ## kafka
 * https://kafka.apache.org/documentation
