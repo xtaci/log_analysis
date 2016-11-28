@@ -4,6 +4,9 @@ log analysis documents
 ## scenario
 ![scenario](log.png)
 
+## hadoop
+http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html
+
 ## kafka
 * https://kafka.apache.org/documentation
 * https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1
