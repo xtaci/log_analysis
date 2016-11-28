@@ -28,9 +28,8 @@ log analysis documents
 * https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin
 
 ## spark
+* https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started
 * http://spark.apache.org/docs/latest/spark-standalone.html
-* http://spark.apache.org/docs/latest/building-spark.html#building-with-hive-and-jdbc-support
-* http://spark.apache.org/docs/1.6.3/hadoop-provided.html
 
 ## elasticsearch
 * https://www.elastic.co/blog/found-sizing-elasticsearch   index planning
