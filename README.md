@@ -29,17 +29,17 @@
 * https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin -- metastore配置
 
 ## spark
-* https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started   -- hive和spark集成
+* https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started -- hive和spark集成
 * http://spark.apache.org/docs/latest/spark-standalone.html -- spark配置
 
 ## elasticsearch
-* https://www.elastic.co/blog/found-sizing-elasticsearch   -- es索引规划，容量规划
+* https://www.elastic.co/blog/found-sizing-elasticsearch -- es索引规划，容量规划
 * https://www.elastic.co/blog/performance-indexing-2-0 -- es索引
 * https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up --es内部原理
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-templates.html -- index模板
 * https://www.elastic.co/blog/found-elasticsearch-in-production --es生产部署
 * https://www.smashingmagazine.com/2012/05/stop-redesigning-start-tuning-your-site/
-* https://www.elastic.co/blog/customizing-your-document-routing
+* https://www.elastic.co/blog/customizing-your-document-routing -- es读取优化
 * https://www.elastic.co/videos/big-data-search-and-analytics
 * https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
 * https://aphyr.com/posts/288-the-network-is-reliable
@@ -48,7 +48,7 @@
 ## s3
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html  --es数据备份
 * https://www.elastic.co/guide/en/elasticsearch/plugins/5.0/repository-s3.html --es备份到s3的插件
-* https://github.com/minio/minio  --s3兼容存储
+* https://github.com/minio/minio --s3兼容存储
 
 ## mongodb:
 * https://docs.mongodb.com/manual/tutorial/deploy-replica-set/ -- mongodb复制集部署
