@@ -1,5 +1,4 @@
-# log analysis
-日志分析资料汇集
+# Practical Log Analysis
 
 ## scenario
 ![scenario](log.png)
