@@ -17,7 +17,7 @@
 * https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html --es和hive的集成
 * https://cwiki.apache.org/confluence/display/Hive/GettingStarted -- hive配置
 * http://mirror.metrocast.net/apache/hive/ --hive介绍视频
-* https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DDL --hive的DDL
+* https://cwiki.apache.org/confluence/display/Hive/LanguageManual --hive的SQL手册
 * https://github.com/mongodb/mongo-hadoop/wiki/Hive-Usage -- hive和mongodb的集成
 * https://github.com/mongodb/mongo-hadoop 
 * https://github.com/xtaci/json2hive -- 通过json构造hive schema
