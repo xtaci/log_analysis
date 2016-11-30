@@ -6,6 +6,7 @@
 
 ## hadoop
 * http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html  -- 单节点hdfs部署
+* https://github.com/chrislusf/gleam -- Fast, efficient, and scalable distributed map/reduce system written in Go and LuaJIT
 
 ## kafka
 * https://kafka.apache.org/documentation   --kafka官方文档
