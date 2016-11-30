@@ -13,6 +13,10 @@
 * https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part2
 * https://github.com/travisjeffery/jocko   --golang的kafka复刻
 
+## logstash
+* https://www.elastic.co/products/logstash -- Centralize, Transform & Stash Your Data
+* https://github.com/influxdata/telegraf -- The plugin-driven server agent for collecting & reporting metrics.
+
 ## hive
 * https://cwiki.apache.org/confluence/display/Hive/GettingStarted -- hive配置
 * https://cwiki.apache.org/confluence/display/Hive/LanguageManual --hive的SQL手册
