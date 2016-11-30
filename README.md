@@ -9,29 +9,27 @@
 
 ## kafka
 * https://kafka.apache.org/documentation   --kafka官方文档
-* https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1  -- elastic和kafka的最佳实践
+* https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1  -- es和kafka的最佳实践
 * https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part2
 * https://github.com/travisjeffery/jocko   --golang的kafka复刻
 
 ## hive
-* https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html --es和hive的集成
 * https://cwiki.apache.org/confluence/display/Hive/GettingStarted -- hive配置
 * https://cwiki.apache.org/confluence/display/Hive/LanguageManual --hive的SQL手册
-* https://github.com/mongodb/mongo-hadoop/wiki/Hive-Usage -- hive和mongodb的集成
-* https://github.com/mongodb/mongo-hadoop 
 * https://github.com/xtaci/json2hive -- 通过json构造hive schema
 
 ## metastore
-* https://hub.docker.com/_/mysql/  --hive的mysql metastore docker image
+* https://hub.docker.com/_/mysql/  -- 可以给hive用的mysql镜像
 * https://issues.apache.org/jira/secure/attachment/12471108/HiveMetaStore.pdf   -- metastore结构
-* https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool -- schematool
 * https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin -- metastore配置
+* https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool -- schematool
 
 ## spark
 * https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started -- hive和spark集成
 * http://spark.apache.org/docs/latest/spark-standalone.html -- spark配置
 
 ## elasticsearch
+* https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html --es和hive的集成
 * https://www.elastic.co/blog/found-sizing-elasticsearch -- es索引规划，容量规划
 * https://www.elastic.co/blog/performance-indexing-2-0 -- es索引
 * https://www.elastic.co/blog/found-elasticsearch-from-the-bottom-up --es内部原理
@@ -50,6 +48,8 @@
 * https://github.com/minio/minio --s3兼容存储
 
 ## mongodb:
+* https://github.com/mongodb/mongo-hadoop 
+* https://github.com/mongodb/mongo-hadoop/wiki/Hive-Usage -- hive和mongodb的集成
 * https://docs.mongodb.com/manual/tutorial/deploy-replica-set/ -- mongodb复制集部署
 * https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-1-introduction-setup -- mongodb和spark/hive集成
 * https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-2-hive-example
