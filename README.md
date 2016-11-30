@@ -3,6 +3,16 @@
 ## scenario
 ![scenario](log.png)
 
+tested on the versions below:
+* apache-hive-2.1.0-bin.tar.gz
+* elasticsearch-5.0.1.tar.gz
+* kafka_2.11-0.10.1.0.tgz
+* kibana-5.0.1-linux-x86_64.tar.gz
+* logstash-5.0.0.tar.gz
+* mysql-connector-java-5.1.40.tar.gz
+* spark-1.6.3-bin-hadoop2-without-hive.tgz
+* hadoop-2.6.5.tar.gz
+
 ## hadoop
 * http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html  -- 单节点hdfs部署
 * https://github.com/chrislusf/gleam -- Fast, efficient, and scalable distributed map/reduce system written in Go and LuaJIT
@@ -32,6 +42,7 @@
 * https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started -- hive和spark集成
 * http://spark.apache.org/docs/latest/spark-standalone.html -- spark配置
 * http://mangocool.com/1467770109867.html -- hive on spark的版本问题
+* http://www.csdn.net/article/2015-04-24/2824545 -- Intel李锐：Hive on Spark解析
 
 ## elasticsearch
 * https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html --es和hive的集成
