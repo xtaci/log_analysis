@@ -31,6 +31,7 @@
 ## spark
 * https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started -- hive和spark集成
 * http://spark.apache.org/docs/latest/spark-standalone.html -- spark配置
+* http://mangocool.com/1467770109867.html -- hive on spark的版本问题
 
 ## elasticsearch
 * https://www.elastic.co/guide/en/elasticsearch/hadoop/current/hive.html --es和hive的集成
