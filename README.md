@@ -24,7 +24,7 @@ tested on the versions below:
 * https://github.com/travisjeffery/jocko   --golang的kafka复刻
 
 ## logstash
-* https://www.elastic.co/products/logstash -- Centralize, Transform & Stash Your Data
+* https://www.elastic.co/guide/en/logstash/current/index.html -- Centralize, Transform & Stash Your Data
 * https://github.com/influxdata/telegraf -- The plugin-driven server agent for collecting & reporting metrics.
 
 ## hive
