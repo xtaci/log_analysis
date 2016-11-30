@@ -56,3 +56,6 @@
 * https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-2-hive-example
 * https://www.mongodb.com/blog/post/using-mongodb-hadoop-spark-part-3-spark-example-key-takeaways
 
+## application library
+* https://github.com/gliderlabs/logspout -- 采集docker容器的标准输出
+* https://github.com/Sirupsen/logrus -- 结构化日志输出
