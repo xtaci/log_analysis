@@ -23,10 +23,10 @@
 * https://github.com/xtaci/json2hive -- 通过json构造hive schema
 
 ## metastore
-* https://hub.docker.com/_/mysql/  -- 可以给hive用的mysql镜像
+* https://hub.docker.com/_/mysql/  -- 可以给metastore用的mysql镜像
 * https://issues.apache.org/jira/secure/attachment/12471108/HiveMetaStore.pdf   -- metastore结构
 * https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin -- metastore配置
-* https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool -- schematool
+* https://cwiki.apache.org/confluence/display/Hive/Hive+Schema+Tool -- schema创建
 
 ## spark
 * https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started -- hive和spark集成
