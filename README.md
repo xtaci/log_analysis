@@ -59,6 +59,7 @@ tested on the versions below:
 * https://aphyr.com/posts/281-call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-reindex.html --mapping重建
 * http://www.cnblogs.com/Creator/p/3722408.html --mapping重建
+* http://wzktravel.github.io/2016/05/11/elasticsearch-reindex/  --mapping重建
 
 ## s3
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html  --es数据备份
