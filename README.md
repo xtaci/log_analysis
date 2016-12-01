@@ -26,6 +26,7 @@ tested on the versions below:
 ## logstash
 * https://www.elastic.co/guide/en/logstash/current/index.html -- Centralize, Transform & Stash Your Data
 * https://github.com/influxdata/telegraf -- The plugin-driven server agent for collecting & reporting metrics.
+* https://www.elastic.co/guide/en/logstash/current/deploying-and-scaling.html -- logstash部署
 
 ## hive
 * https://cwiki.apache.org/confluence/display/Hive/GettingStarted -- hive配置
