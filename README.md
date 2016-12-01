@@ -57,6 +57,8 @@ tested on the versions below:
 * https://www.elastic.co/blog/disk-based-field-data-a-k-a-doc-values
 * https://aphyr.com/posts/288-the-network-is-reliable
 * https://aphyr.com/posts/281-call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions
+* https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-reindex.html --mapping重建
+* http://www.cnblogs.com/Creator/p/3722408.html --mapping重建
 
 ## s3
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-snapshots.html  --es数据备份
