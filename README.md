@@ -23,6 +23,7 @@ tested on the versions below:
 * https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part2
 * https://github.com/travisjeffery/jocko   --golang的kafka复刻
 * https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md --经典
+* https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations  kafka论文和ppt
 
 ## logstash
 * https://www.elastic.co/guide/en/logstash/current/index.html -- Centralize, Transform & Stash Your Data
