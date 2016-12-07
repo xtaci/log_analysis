@@ -25,6 +25,9 @@ tested on the versions below:
 * https://github.com/oldratlee/translations/blob/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying/README.md --经典
 * https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations  kafka论文和ppt
 * https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
+* https://www.youtube.com/watch?v=77huw-31oZg
+* https://www.youtube.com/watch?v=k_Y5ieFHGbs
+* https://engineering.linkedin.com/kafka/benchmarking-apache-kafka-2-million-writes-second-three-cheap-machines
 
 ## logstash
 * https://www.elastic.co/guide/en/logstash/current/index.html -- Centralize, Transform & Stash Your Data
